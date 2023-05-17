@@ -28,11 +28,6 @@ img {
     margin-bottom: 20px;
 }
 
-.logo {
-    font-weight: bolder;
-    font-size: 3rem;
-}
-
 .navbar {
     display: flex;
     gap: 1rem;
